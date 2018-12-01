@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="282.0" prefWidth="433.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.171" fx:controller="Controller">
+   <children>
+      <ImageView fx:id="refugees" fitHeight="285.0" fitWidth="433.0">
+         <image>
+            <Image url="@../../../OneDrive/Escritorio/NUEVO%20PC/2DAM/INTERFACES/live.jpg" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
